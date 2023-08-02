@@ -1,0 +1,22 @@
+{
+  "receitas": [
+    {
+      "id": 1,
+      "ingredientes": [
+        "1½ xícara (chá) de água",
+        "½ xícara (chá) de leite",
+        "2 saquinhos de chá preto",
+        "6 grãos de pimenta-do-reino",
+        "2 ramas de canela",
+        "4 bagas de cardamomo",
+        "4 cravos-da-índia",
+        "½ colher (chá) de sementes de erva-doce",
+        "½ colher (sopa) de açúcar mascavo"
+      ],
+      "modoPreparo": [
+        "Com uma faquinha para legumes, corte as pontas e abra as bagas de cardamomo. Transfira as sementes para uma panela pequena e junte todos os ingredientes, exceto o chá preto. Misture e leve ao fogo médio.",
+        "Assim que ferver, desligue o fogo e adicione os saquinhos de chá preto. Tampe a panela e deixe em infusão por 5 minutos. Coe o chá e transfira para uma chaleira. Sirva a seguir."
+      ]
+    }
+  ]
+}
