@@ -1,12 +1,23 @@
 import { Link } from 'react-router-dom';
 import './home.css';
 
-// URL DA API: /movie/now_playing?api_key=28fc232cc001c31e8a031f419d0a14ca&language=pt-BR
-
 function Home(){
+  const receitas = require('../../receitas.json');
 
   return(
-   <p>Home</p>
+    <div>
+      <h2>Home</h2>
+      <ul>
+        {receitas.map((receita) =>{
+          return(
+          <li>
+            <Link to={`/detalhes/${receita.id}`}>{receita.titulo}</Link>
+            
+            <br/>
+          </li>)
+        })}
+      </ul>
+    </div>
   )
 }
 

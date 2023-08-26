@@ -1,8 +1,8 @@
-{
-  "receitas": [
+
+  [
     {
       "id": 1,
-      "nome": "Curry de peixe",
+      "titulo": "Curry de peixe",
       "ingredientes": [
         "600 g de peixe (namorado ou cação)",
         "200 g de camarões limpos",
@@ -22,7 +22,7 @@
     },
     {
       "id": 2,
-      "nome": "Quiabo refogado com curry",
+      "titulo": "Quiabo refogado com curry",
       "ingredientes": [
         "500 g de quiabo sem as extremidades",
         "2 colheres (sopa) de azeite",
@@ -34,7 +34,7 @@
     },
     {
       "id": 3,
-      "nome": "Frango Tandoori",
+      "titulo": "Frango Tandoori",
       "ingredientes": [
         "1 e ¼ kg de frango desossado e cortado em pedaços",
         "3 colheres (sopa) de suco de limão natural",
@@ -53,7 +53,7 @@
     },
     {
       "id": 4,
-      "nome": "Tchai",
+      "titulo": "Tchai",
       "ingredientes": [
         "Chá preto",
         "Leite a gosto",
@@ -64,7 +64,7 @@
     },
     {
       "id": 5,
-      "nome": "Lassi",
+      "titulo": "Lassi",
       "ingredientes": [
         "6 cubos de iogurte caseiro congelados",
         "3 colheres de sopa de geleia de ameixa caseira",
@@ -74,7 +74,7 @@
     },
     {
       "id": 6,
-      "nome": "Espetinho de frango com tempero indiano",
+      "titulo": "Espetinho de frango com tempero indiano",
       "ingredientes": [
         "3 colheres de sopa de óleo de coco",
         "5 colheres de sopa de sementes de cominho",
@@ -102,7 +102,7 @@
     },
     {
       "id": 7,
-      "nome": "Modak",
+      "titulo": "Modak",
       "ingredientes": [
         "2 xícaras (chá) de água",
         "1 colher (chá) de óleo vegetal",
@@ -116,7 +116,7 @@
     },
     {
       "id": 8,
-      "nome": "Frango a moda de GOA",
+      "titulo": "Frango a moda de GOA",
       "ingredientes": [
         "2 kg de sobrecoxa ou coxinhas de asa de frango temperadas a gosto",
         "1 vidro de leite de coco grande (500 ml)",
@@ -133,7 +133,7 @@
     },
     {
       "id": 9,
-      "nome": "Naam",
+      "titulo": "Naam",
       "ingredientes": [
         "2 xícaras de farinha",
         "1 colher de chá de sal",
@@ -144,7 +144,7 @@
     },
     {
       "id": 10,
-      "nome": "Arroz basmati",
+      "titulo": "Arroz basmati",
       "ingredientes": [
         "1 e 1/2 xícara de chá de arroz basmati",
         "3 xícaras de chá de água",
@@ -154,4 +154,3 @@
       "modoPreparo": "Coloque o arroz numa peneira e lave os grãos sob água corrente até a água sair transparente. Com a lateral da faca, amasse levemente as bagas de cardamomo apenas para abrir. Numa panela média, coloque a água, junte as bagas de cardamomo e leve ao fogo alto. Assim que ferver, adicione o arroz, o sal e misture. Diminua o fogo para médio e deixe cozinhar com a tampa entreaberta, por cerca de 15 minutos, até o arroz absorver toda a água. Desligue o fogo, tampe a panela e mantenha abafado por mais 5 minutos para os grãos terminarem de cozinhar no próprio vapor. Solte os grãos com um garfo e sirva a seguir."
     }
   ]
-}
