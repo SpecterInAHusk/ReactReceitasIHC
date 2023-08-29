@@ -5,12 +5,12 @@ function Home(){
   const receitas = require('../../receitas.json');
 
   return(
-    <div>
-      <h2>Home</h2>
+    <div className="card">
+      <h2 className="titulo">Home</h2>
       <ul>
         {receitas.map((receita) =>{
           return(
-          <li>
+          <li className='link'>
             <Link to={`/detalhes/${receita.id}`}>{receita.titulo}</Link>
             
             <br/>

@@ -1,4 +1,5 @@
 import { useParams } from 'react-router-dom';
+import './detalhe-receita.css'
 
 function Detalhes(){
     var { id } = useParams();
@@ -16,11 +17,11 @@ function Detalhes(){
 
 
     return(
-        <div>
-            <h2>{receita.titulo}</h2>
+        <div className='card'>
+            <h2 className='titulo'>{receita.titulo}</h2>
 
             <div>
-            <div>Ingredientes:</div>
+            <div className='subtitulo'>Ingredientes:</div>
             <ul>
             {receita.ingredientes.map((ingrediente) =>{
                 return(
@@ -33,7 +34,7 @@ function Detalhes(){
             <br/>
 
             <div>
-            <div>Modo de Preparo:</div>
+            <div className='subtitulo'>Modo de Preparo:</div>
             <p>{receita.modoPreparo}</p>  
             </div>
 
