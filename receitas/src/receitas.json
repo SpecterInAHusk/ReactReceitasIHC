@@ -1,15 +1,15 @@
-{
-  "receitas": [
+
+  [
     {
-      "id": 1,
-      "nome": "Curry de peixe",
+      "id": "1",
+      "titulo": "Curry de peixe",
       "ingredientes": [
         "600 g de peixe (namorado ou cação)",
         "200 g de camarões limpos",
         "1 pedaço de gengibre de uns 4 cm",
         "2 cenouras",
         "2 abobrinhas",
-        "½ cebola",
+        "1/2 cebola",
         "1 dente de alho",
         "50 g de manteiga",
         "300 ml de leite de coco",
@@ -21,20 +21,20 @@
       "modoPreparo": "Pique finamente o alho e a cebola, corte as cenouras e as abobrinhas em palitos bem finos e longos, e o gengibre, em lâminas bem finas. Em uma caçarola, derreta a manteiga em fogo médio e refogue o alho, a cebola e o gengibre por 3 minutos. Adicione o curry, o sal e a pimenta e deixe cozinhar por mais 2 minutos, mexendo sempre. Despeje, pouco a pouco, o leite de coco e deixe ferver. Acrescente o peixe, as cenouras e as abobrinhas e deixe cozinhar em fogo baixo por 10 minutos. Em seguida, adicione os camarões e deixe por mais 5 minutos. Termine acrescentando o iogurte e acertando o sal. Sirva bem quente, com um pouco de coco ralado sobre os camarões."
     },
     {
-      "id": 2,
-      "nome": "Quiabo refogado com curry",
+      "id": "2",
+      "titulo": "Quiabo refogado com curry",
       "ingredientes": [
         "500 g de quiabo sem as extremidades",
         "2 colheres (sopa) de azeite",
         "1 colher (chá) de semente de cominho",
-        "½ colher (chá) de curry",
-        "½ colher (chá) de sal"
+        "1/2 colher (chá) de curry",
+        "1/2 colher (chá) de sal"
       ],
       "modoPreparo": "Corte o quiabo em rodelas diagonais de cerca de 1 centímetro. Em uma tigela refratária, leve-as ao micro-ondas, em potência alta, por três minutos ou até que fiquem al dente. Reserve. Em uma frigideira, aqueça o azeite e junte o cominho. Quando sentir o aroma forte da semente, adicione o quiabo. Refogue a mistura por cinco minutos. Acrescente o curry e o sal e cozinhe por mais dois minutos."
     },
     {
-      "id": 3,
-      "nome": "Frango Tandoori",
+      "id": "3",
+      "titulo": "Frango Tandoori",
       "ingredientes": [
         "1 e ¼ kg de frango desossado e cortado em pedaços",
         "3 colheres (sopa) de suco de limão natural",
@@ -44,7 +44,7 @@
         "2 colheres (sopa) de semente de coentro em pó",
         "1 punhado de coentro fresco picado",
         "2 colheres (chá) de páprica",
-        "½ colher (chá) de cúrcuma em pó",
+        "1/2 colher (chá) de cúrcuma em pó",
         "1 colher (sopa) de sal",
         "1 colher (chá) de pimenta-do-reino moída na hora",
         "6 dentes de alho amassados"
@@ -52,8 +52,8 @@
       "modoPreparo": "Faça pequenos cortes na carne do frango para que absorva mais o tempero. Misture o suco de limão com o sal e passe no frango. Coloque o frango em uma travessa rasa. Em um processador de alimentos, junte metade do iogurte, o cominho, o coentro fresco, as sementes de coentro em pó, a páprica, a cúrcuma, o sal, a pimenta e o alho. Processe, até obter um molho. Transfira para uma vasilha e adicione o iogurte restante. Jogue este molho sobre o frango e deixe-o marinando na geladeira por no mínimo 8 horas. Pré-aqueça a grelha ou churrasqueira em temperatura média Retire o frango da marinada e jogue fora o molho. Deixe o frango na grelha por 30 a 45 minutos, virando-o com frequência para que não queime de um lado só. Os pedaços menores vão ficar prontos primeiro. Sirva a seguir."
     },
     {
-      "id": 4,
-      "nome": "Tchai",
+      "id": "4",
+      "titulo": "Tchai",
       "ingredientes": [
         "Chá preto",
         "Leite a gosto",
@@ -63,8 +63,8 @@
       "modoPreparo": "Prepare o chá da maneira que preferir, acrescentando os temperos a gosto. Coe, adicione o leite bem quente, adoce e sirva."
     },
     {
-      "id": 5,
-      "nome": "Lassi",
+      "id": "5",
+      "titulo": "Lassi",
       "ingredientes": [
         "6 cubos de iogurte caseiro congelados",
         "3 colheres de sopa de geleia de ameixa caseira",
@@ -73,8 +73,8 @@
       "modoPreparo": "No liquidificador bata a água com os cubos de iogurte congelados e a geleia até ficar liso. Sirva a seguir."
     },
     {
-      "id": 6,
-      "nome": "Espetinho de frango com tempero indiano",
+      "id": "6",
+      "titulo": "Espetinho de frango com tempero indiano",
       "ingredientes": [
         "3 colheres de sopa de óleo de coco",
         "5 colheres de sopa de sementes de cominho",
@@ -101,22 +101,22 @@
       "modoPreparo": "Coloque na panela um pouco de óleo de coco, adicione as sementes de cominho, sementes de coentro e o cravo da índia. Cozinhe durante 3 minutos. Após esse preparo, adicione as sementes no pilão e amasse. Depois misture com todos os temperos em pó. Desosse o frango e corte em cubos de 4 centímetros. Prepare a marinada misturando o iogurte, o tempero indiano, o suco de limão, o alho e o gengibre picados, a cúrcuma e deixe descansar. Misture essa marinada ao frango e deixe na geladeira por pelo menos 4 horas ou de um dia para o outro. Grelhe o frango na churrasqueira ou leve ao forno bem quente até que fique macio."
     },
     {
-      "id": 7,
-      "nome": "Modak",
+      "id": "7",
+      "titulo": "Modak",
       "ingredientes": [
         "2 xícaras (chá) de água",
         "1 colher (chá) de óleo vegetal",
         "1 xícara (chá) de farinha de arroz",
         "1 xícara (sopa) de coco ralado",
         "1 colher (sopa) de castanha de caju picada",
-        "½ colher (chá) de açúcar mascavo",
+        "1/2 colher (chá) de açúcar mascavo",
         "¼ de xícara (chá) de leite integral"
       ],
       "modoPreparo": "Para fazer a massa, ferva a água numa panela e adicione o óleo. Depois coloque a farinha de arroz e misture bem até formar a massa. Deixe esfriar. Para o recheio, derreta a manteiga em uma panela, em fogo baixo, e adicione o coco ralado, a castanha de caju e o açúcar. Misture bem. Feito isso, adicione o leite e mexa sem parar por 3 minutos em fogo médio (até que ele fique “crocante”, parecido com uma cocada brasileira). Após o procedimento, deixe esfriar em temperatura ambiente. Na montagem, pegue a massa, divida em 9 partes e forme bolinhas. Depois faça um furo com o dedo e preencha com o recheio. Deixe descansar e sirva em temperatura ambiente."
     },
     {
-      "id": 8,
-      "nome": "Frango a moda de GOA",
+      "id": "8",
+      "titulo": "Frango a moda de GOA",
       "ingredientes": [
         "2 kg de sobrecoxa ou coxinhas de asa de frango temperadas a gosto",
         "1 vidro de leite de coco grande (500 ml)",
@@ -132,8 +132,8 @@
       "modoPreparo": "Lave e tempere o frango retirando o excesso de pele. Prepare uma marinada com todos os ingredientes menos os pós. Leve ao forno em uma assadeira para dourar. Reserve. Em uma frigideira leve o coco ralado ao fogo e todas as especiarias em pó (açafrão, coentro, cominho, cravo, canela e as pimentas) e vá mexendo com uma colher de pau. Cuidado para não queimá-los. O ponto é a cor marrom. Retire do fogo e reserve. Em uma panela refogue o alho, a cebola e os tomates e coloque então o frango já pré-assado. Mexa bem e acrescente metade das especiarias que foram douradas e o restante coloque em uma tigela e leve à mesa. Coloque então o vinagre ou o suco de tamarindo, o leite de coco e dois vidros de água e deixe cozinhar por aproximadamente 20 minutos, deixando engrossar um pouco. Antes de servir salpique folhas de coentro picadas. Sirva com arroz branco, batata sauté ou palha."
     },
     {
-      "id": 9,
-      "nome": "Naam",
+      "id": "9",
+      "titulo": "Naam",
       "ingredientes": [
         "2 xícaras de farinha",
         "1 colher de chá de sal",
@@ -143,15 +143,14 @@
       "modoPreparo": "Num recipiente, misture a farinha e o sal. Adicione a água e trabalhe bem a massa até que não grude nas mãos. Polvilhe uma superfície lisa com farinha e trabalhe bem a massa até que fique elástica. Faça uma bola, coloque num recipiente ligeiramente untado com óleo e cubra com um pano húmido. Deixe descansar por 30 minutos. Polvilhe com farinha uma superfície lisa, trabalhe a massa e divida em 10 a 12 bolas. Abra as bolinhas em discos bem fininhos com um rolo da massa. Aqueça uma frigideira anti-aderente grande, coloque os discos, um por vez, e cozinhe até que inche, cerca de 1 minuto. Vire e cozinhe mais uns segundos, até dourar. Cubra com um pano para mantê-los aquecidos até a hora de servir."
     },
     {
-      "id": 10,
-      "nome": "Arroz basmati",
+      "id": "10",
+      "titulo": "Arroz basmati",
       "ingredientes": [
-        "1 e ½ xícara de chá de arroz basmati",
+        "1 e 1/2 xícara de chá de arroz basmati",
         "3 xícaras de chá de água",
-        "½ colher de chá de sal",
+        "1/2 colher de chá de sal",
         "3 bagas de cardamomo"
       ],
       "modoPreparo": "Coloque o arroz numa peneira e lave os grãos sob água corrente até a água sair transparente. Com a lateral da faca, amasse levemente as bagas de cardamomo apenas para abrir. Numa panela média, coloque a água, junte as bagas de cardamomo e leve ao fogo alto. Assim que ferver, adicione o arroz, o sal e misture. Diminua o fogo para médio e deixe cozinhar com a tampa entreaberta, por cerca de 15 minutos, até o arroz absorver toda a água. Desligue o fogo, tampe a panela e mantenha abafado por mais 5 minutos para os grãos terminarem de cozinhar no próprio vapor. Solte os grãos com um garfo e sirva a seguir."
     }
   ]
-}
