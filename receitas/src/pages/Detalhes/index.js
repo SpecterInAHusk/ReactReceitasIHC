@@ -2,7 +2,7 @@ import { useParams } from 'react-router-dom';
 
 function Detalhes(){
     var { id } = useParams();
-    var receitas = require('../../receitas.json');
+    var receitas = require('../AdicionarReceita/receitas.json');
 
     function findById(receitas, id) {
         for (var i = 0; i < receitas.length; i++) {

@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import './home.css';
 
 function Home(){
-  const receitas = require('../../receitas.json');
+  const receitas = require('../AdicionarReceita/receitas.json');
 
   return(
     <div>
