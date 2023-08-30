@@ -1,3 +1,5 @@
+import './adicionar-receita.css'
+
 function AdicionarReceita(){
     var receitas = require('./receitas.json');
     const ingredientes = [];
@@ -20,11 +22,11 @@ function AdicionarReceita(){
     }
     
     return(
-        <div>
-            <h2>Adicionar Receita</h2>
+        <div className='card'>
+            <h2 className='titulo'>Adicionar Receita</h2>
 
             <div>
-                <span>Titulo: </span>
+                <span className='field-name'>Titulo: </span>
                 <input type="text" id="titulo"></input>
             </div>
 
@@ -33,22 +35,22 @@ function AdicionarReceita(){
                     return <li>{ingrediente}</li>
                 })}
             <div>
-                <span>Ingredientes: </span>
+                <span className='field-name'>Ingredientes: </span>
                 <ul id="ingredientes"></ul>
                 <input type="text" id="ingrediente"></input>
-                <button onClick={addIngrediente}>Adicionar</button>
+                <button onClick={addIngrediente} className='button-add'>Adicionar</button>
             </div>
             
             <br/>
 
             <div>
-                <span>Modo de Preparo: </span>
+                <span className='field-name'>Modo de Preparo: </span>
                 <input type="text" id="modoPreparo"></input>
             </div>
 
             <br/>
 
-            <button onClick={addReceita}>Criar Receita</button>
+            <button onClick={addReceita} className='button-create'>Criar Receita</button>
         </div>
     )
 }

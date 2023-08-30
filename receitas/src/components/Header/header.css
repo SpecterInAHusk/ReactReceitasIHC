@@ -1,23 +1,30 @@
+.header {
+	background-color: #f0f0f0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+	padding: 20px;
+}
 
-    .header {
-        background-color: #f0f0f0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        position: relative;
-        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
-        padding: 20px;
-    }
+.header h1 {
+	margin: 0;
+	color: black;
+}
 
-    .header h1 {
-        margin: 0;
-        color: black;
-    }
+.button {
+	position: absolute;
+	left: 20px;
+	background-color: #00008b;
+	color: #fff;
+	border: none;
+	border-radius: 10px;
+	padding: 10px 20px;
+	text-decoration: none;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
 
-    .home-link {
-        position: absolute;
-        left: 20px;
-        color: black;
-        text-decoration: none;
-
-    }
+.button.add {
+	left: 120px;
+}

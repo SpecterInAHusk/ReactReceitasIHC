@@ -15,7 +15,7 @@ body {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
-.header {
+.titulo {
     font-size: 2rem;
     color: #333;
     border-bottom: 1px solid #999;
@@ -30,4 +30,40 @@ body {
 
 .link:hover {
     text-decoration: underline;
+}
+
+.button-create {
+	background-color: #00008b;
+	color: #fff;
+    font-weight: bold;
+	border: none;
+	border-radius: 10px;
+	padding: 10px 20px;
+	text-decoration: none;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.button-add {
+	background-color: #00008b;
+	color: #fff;
+    font-weight: bold;
+	border: none;
+	border-radius: 10px;
+	padding: 5px 20px;
+    margin-left: 5px;
+	text-decoration: none;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+
+.button-add:hover {
+    text-decoration: underline;
+}
+
+.button-create:hover {
+    text-decoration: underline;
+}
+
+.field-name {
+    font-weight: bold;
 }
